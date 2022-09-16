@@ -1,0 +1,159 @@
+.top-container {
+  background-color: #FFFAE7;
+  position: relative;
+  padding-top: 130px;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #D2001A;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #D2001A;
+  margin: 0;
+  font-size: 2.3rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #E94560;
+  font-weight: bolder;
+}
+
+.japanese {
+  font-family: 'Noto Serif JP', serif;
+}
+.mountain {
+  height: 360px;
+  width: 360px;
+}
+.coder {
+  text-decoration: underline;
+}
+.bird {
+  height: 50px;
+  width: 50px;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+  background-color: #EFEFEF;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 100px;
+}
+.bottom-bird {
+  position: absolute;
+  top: 100px;
+  left: 690px;
+}
+.top-bird {
+  position: absolute;
+  top: 280px;
+  right: 600px;
+  transform: rotate(90deg);
+}
+a {
+  color: #E94560;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.gamepad {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {
+  margin: 100px auto;
+  width: 5%;
+  background-color: white;
+  border: 8px dotted;
+  border-style: none none dotted;
+  color: grey;
+  opacity: 0.6;
+}
+.intro {
+  width: 35%;
+  margin: 50px auto 0 auto;
+  color: #40514E;
+}
+.pfp {
+  margin: 60px auto 40px auto;
+}
+.program {
+  margin-bottom: 80px;
+}
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto 70px auto;
+  background-color: #E94560;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.btn:hover {
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto 70px auto;
+  background-color: #D2001A;
+  border: none;
+  color: black;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.bottom-container {
+  padding: 45px;
+  background-color: #E94560;
+  margin: 0;
+}
+.trademark {
+  margin: 40px auto 0 auto;
+  color: #EAF6F6;
+
+}
+.footer-link {
+  margin: auto 30px;
+  color: #990000;
+}
+.footer-link:hover{
+  margin: auto 30px;
+  color: #EAF6F6;
+}
