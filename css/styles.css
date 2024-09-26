@@ -94,9 +94,9 @@ a {
 }
 
 hr {
-  margin: 100px auto;
+  margin: 120px auto;
   width: 5%;
-  background-color: white;
+  background-color: #EFEFEF;
   border: 8px dotted;
   border-style: none none dotted;
   color: grey;
